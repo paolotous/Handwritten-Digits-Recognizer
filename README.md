@@ -13,4 +13,4 @@ Summary: The model is trained first with existing Sklearn digit recognition data
 
 User would draw a digit on the canvas. User can save the image ( Can be helpful to create a brand new dataset ).
 
-User can use the pre-trained Classifier to predict the handwritten digit.
+User can use the trained Classifier to predict the handwritten digit.
